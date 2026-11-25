@@ -1,0 +1,6 @@
+{
+  "name": "CALLIDUS EARN AI",
+  "description": "Kenya-founded human-powered AI training, African voice intelligence, rewarded advertising, and M-PESA digital earning marketplace.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
